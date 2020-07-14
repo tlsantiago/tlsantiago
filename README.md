@@ -10,5 +10,7 @@ Sharing some of my work, studies and discoveries here.
 <li>React Native</li>
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssantiagotl@gmail.com)](mailto:ssantiagotl@gmail.com) Feel free to contact me :)
+<strong>Mail</strong>: ssantiagotl@gmail.com
+<br>
+Feel free to contact me :)
 

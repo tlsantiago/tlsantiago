@@ -1,9 +1,7 @@
 ## Hello! I'm Thyago Lins Santiago.
-
-Constantly looking to improve my skills as a Web Developer. 
 Sharing some of my work, studies and discoveries here.
 
-### Currently focusing my studies in:
+### Currently focusing in:
 <li>Java</li>
 <li>Spring</li>
 <li>JavaScript</li>

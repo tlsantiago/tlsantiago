@@ -7,7 +7,7 @@ Sharing some of my work, studies and discoveries here.
 <li>Java</li>
 <li>Spring</li>
 <li>JavaScript</li>
-<li>React</li>
+<li>Angular</li>
 <br>
 
 <strong>Mail</strong>: ssantiagotl@gmail.com

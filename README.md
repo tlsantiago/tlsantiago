@@ -5,7 +5,7 @@ Sharing some of my work, studies and discoveries here.
 <li>Java</li>
 <li>Spring</li>
 <li>JavaScript</li>
-<li>TypeScrypt</li>
+<li>TypeScript</li>
 <li>Angular</li>
 <br>
 

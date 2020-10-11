@@ -1,5 +1,5 @@
 ## Hello! I'm Thyago Lins Santiago.
-Sharing some of my work, studies and discoveries here.
+Sharing some of my work and studies.
 
 ### Currently focusing on:
 <li>Java</li>

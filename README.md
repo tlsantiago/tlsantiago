@@ -4,6 +4,7 @@ Sharing some of my work and studies.
 ### Currently focusing on:
 <li>R</li>
 <li>Python</li>
+<li>SQL</li>
 <br>
 
 <strong>Mail</strong>: ssantiagotl@gmail.com

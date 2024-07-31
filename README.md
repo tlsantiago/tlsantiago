@@ -1,11 +1,8 @@
-## Hello! I'm Thyago Lins Santiago.
-Sharing some of my work and studies.
+## Hello! I'm Thyago Santiago.
+Mostly known as Santiago, I'm currently a Data Analyst working for [idwall](https://idwall.co/) in São Paulo/Brazil.
 
-### Currently focusing on:
-<li>R</li>
-<li>Python</li>
-<li>SQL</li>
-<br>
+- 💻 &nbsp; Working on a daily basis with: Python (Pandas, Matplot, Scikit-Learn, PySpark), SQL, Dbt, Git and Looker
+- 🧮&nbsp; Deepening my knowledge on Machine Learning practices and tools 
 
 <strong>Mail</strong>: ssantiagotl@gmail.com
 <br>
